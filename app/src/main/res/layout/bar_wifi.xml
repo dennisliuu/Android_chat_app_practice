@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="24dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:background="#ef0300"
+    android:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar"
+    >
+    <TextView
+        android:id="@+id/textbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="No Internet Connection"/>
+
+</android.support.v7.widget.Toolbar>

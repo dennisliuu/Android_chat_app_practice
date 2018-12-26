@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "288562675917",
+    "firebase_url": "https://nodemcu-e78d3.firebaseio.com",
+    "project_id": "nodemcu-e78d3",
+    "storage_bucket": "nodemcu-e78d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288562675917:android:0c8ca9a57c366e98",
+        "android_client_info": {
+          "package_name": "com.example.danielgood.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288562675917-djraq7q40ia0p08lfa6flij7tdgsih9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-tRYE6SA_H5MYzuPOFvIXfXbv8w4x6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288562675917:android:e03467cff4e66c8c",
+        "android_client_info": {
+          "package_name": "com.example.danielgood.chatapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288562675917-djraq7q40ia0p08lfa6flij7tdgsih9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-tRYE6SA_H5MYzuPOFvIXfXbv8w4x6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
